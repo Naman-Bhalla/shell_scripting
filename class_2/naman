@@ -1,0 +1,5 @@
+#!/bin/bash
+
+read -p "Hey! I am Naman. Who are you? " name
+
+echo "This is Naman saying Hello to $name"
