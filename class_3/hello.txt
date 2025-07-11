@@ -1,0 +1,8 @@
+$1, $2, $3 => $0 -> whole line
+name, course, marks
+naman, maths, 100
+amit, mathematics, 80
+naman, sst, 70
+hemanth, sst, 90
+keshav, maths, 99Hey There
+Hey There
